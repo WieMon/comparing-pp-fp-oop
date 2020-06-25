@@ -1,5 +1,5 @@
 class Validator {
-  static REQUIRED = 'REQUIRED'; //eslint-disable
+  static REQUIRED = 'REQUIRED'; 
   static MIN_LENGTH = 'MIN_LENGTH';
   static validate(value, flag, validatorValue) {
 
